@@ -1,5 +1,7 @@
 # jupyter_notebooks
-This directory contains the jupyter notebook which is the heart of the Aeolian Alexanders project. You can find an excellent guide to the basics of installing a jupyter notebook here: https://programminghistorian.org/en/lessons/jupyter-notebooks.
+This directory contains the jupyter notebooks which are the heart of the Aeolian Alexanders project. You can find an excellent guide to the basics of installing a jupyter notebook here: https://programminghistorian.org/en/lessons/jupyter-notebooks.
+
+NB: YOU SHOULD DOWNLOAD THE NOTEBOOK AND RUN IT ON YOUR MACHINE. Many of the libraries behave strangely when run directly from GitHub.
 
 In addition, you will need to install [SQLite](https://www.sqlite.org/index.html) and download the [Aeolian Alexanders database](https://github.com/Aeolian-Alexanders/data/tree/master/sqlite%20database) into the same directory as the jupyter notebook.
 
