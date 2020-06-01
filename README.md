@@ -1,4 +1,4 @@
-# jupyter_notebooks
+# Jupyter Notebooks for Aeolian Alexanders
 This directory contains the jupyter notebooks which are the heart of the Aeolian Alexanders project. You can find an excellent guide to the basics of installing a jupyter notebook here: https://programminghistorian.org/en/lessons/jupyter-notebooks.
 
 NB: YOU SHOULD DOWNLOAD THE NOTEBOOK AND RUN IT ON YOUR MACHINE. Many of the libraries behave strangely when run directly from GitHub.
